@@ -5,10 +5,9 @@ Welcome to the virtual quizz project. In this project, you will a develop a quiz
 ## How to
 
 To work on this project:
- 1. Team leader forks the project into his github account
- 2. Team leader adds his colleagues as contributors
- 3. Add jsubercaze with read/write authorizations
- 4. Code 
+ 1. Team leader adds his colleagues as contributors
+ 2. Add jsubercaze with read/write authorizations
+ 4. Code / test / validate / close issues
  5. Document
  6. ???
  7. Profit
