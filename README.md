@@ -31,3 +31,8 @@ The project will be graded based on the following item:
  * Advances: how many issues you completed, which milestone you reached. Note that an issue closed without unit test will not be considered valid
  * Code quality: is your code well organized, did you follow the requirements
  * Documentation: documenting your code is necessary. Sequence diagram for the main operation are also required. They must be placed in the doc directory. The filename must start with the issue number.
+ 
+ There will be three grades on the project, each on topics seen during the INFO6 module:
+  1. Backend
+  2. Mobile application
+  3. Web Frontend + Security
