@@ -34,3 +34,13 @@ The project will be graded based on the following item:
   1. Backend
   2. Mobile application
   3. Web Frontend + Security
+
+## Project structure
+
+    └── quizz-android                                    Android project
+    └── quizz-backend                                    Maven project for the spring boot backend
+        └── src/main/java/fr/tse/info6/quizzbackend      Root directory for the Java files
+        └── src/main/resources                           Root directory for the resources
+    └── quizz-documentation                              Directory for documentation - Sequence diagrams mostly
+    └── .gitignore                                       
+    └── README.md                                        This file
