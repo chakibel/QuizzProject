@@ -24,7 +24,8 @@ To close an issue, you must link the sources that closes this and also link the 
 Proper ways to document:
  * Javadoc your method
  * Swagger or alike for REST documentation
- * Github Wiki for architecture, installation guide
+ * Architectural, sequence diagrams in the documentation folder
+ 
 
 ## Grades
 
